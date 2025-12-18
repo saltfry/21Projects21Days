@@ -1,6 +1,6 @@
-# 20 Projects in 20 Days: Batch 4
+# 21 Projects in 21 Days: Batch 4
 
-This repository contains my solutions and project implementations for the GeeksforGeeks **20 Projects in 20 Days (Batch 4)** course. The curriculum focuses on building end-to-end applications across Machine Learning, Deep Learning, and Generative AI.
+This repository contains my solutions and project implementations for the GeeksforGeeks **21 Projects in 21 Days (Batch 4)** course. The curriculum focuses on building end-to-end applications across Machine Learning, Deep Learning, and Generative AI.
 
 ## Project Directory
 
