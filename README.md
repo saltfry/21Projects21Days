@@ -57,7 +57,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/saltfry/21Projects21Days.git
+git clone https://github.com/saltfry/21Projects21Days
 
 ```
 
